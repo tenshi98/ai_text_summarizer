@@ -1,0 +1,38 @@
+/* ==========================================================================
+   AI-Powered Text Summarizer — Hoja de estilos
+   Estilos extraídos del bloque <style> original de index.html.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Estilos base y específicos de la interfaz.
+   -------------------------------------------------------------------------- */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+textarea {
+    width: 80%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#summary {
+    width: 80%;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* --------------------------------------------------------------------------
+   Mensajes de error generados por script.js.
+   -------------------------------------------------------------------------- */
+.error-message {
+    color: red;
+}

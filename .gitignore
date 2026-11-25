@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local (contiene claves)
+.env
+
+# Artefactos de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
